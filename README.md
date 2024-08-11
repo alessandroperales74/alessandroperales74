@@ -1,6 +1,6 @@
 ### **Hi, everyone!👋**
 
-![Hi, everyone!👋](linkedin-banner.jpg)
+![Image](linkedin-banner1.jpg)
 
 ### About Me
 - 🙋‍♂️ I'm from Lima, Peru
