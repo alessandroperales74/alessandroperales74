@@ -1,6 +1,9 @@
-Hi, everyone!👋 My name is Alessandro Perales. I'm from Lima, Peru
+### **Hi, everyone!👋**
+
+![Hi, everyone!👋](linkedin-banner.jpg)
 
 ### About Me
+- 🙋‍♂️ I'm from Lima, Peru
 - 🏪 I've been working in the consumer goods industry for about 5 years, specifically in finance, accounts payable, and vendor payments.
 - 💻 I have experience in Business Intelligence, Data Visualization, Data Analysis, Dashboard Design and Development.
 - 📈 Additionally, I've worked on some FTE Optimization projects using low-code platforms (Power Apps and Automate) and Python scripts (SAP Integrations).
