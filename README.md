@@ -6,9 +6,9 @@
 - 🙋‍♂️ I'm from Lima, Peru
 - 🏪 I've been working in the consumer goods industry for about 5 years, specifically in finance, accounts payable, and vendor payments.
 - 🗒️ Currently, I'm in the Accounts Payable department, but my focus is solely on Business Intelligence and Data Analytics, not on Accounts Payable tasks 😅
-- 💻 I have experience in Business Intelligence, Data Visualization, Data Analysis, Dashboard Design and Development.
+- 💻 I have experience in BI, Data Visualization, Data Analysis, Dashboard Design and Development.
 - 📈 Additionally, I've worked on some FTE Optimization projects using low-code platforms (Power Apps and Automate) and Python scripts (SAP Integrations).
-- 📊 Currently, I'm focusing on developing my skills in Data Science and Machine Learning.
+- 📊 I'm focusing on developing my skills in Data Science and Machine Learning.
 - 👔 I studied Business Administration, but I became more interested in data analysis and related fields during my studies.
 
 ### Skills
