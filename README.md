@@ -3,7 +3,6 @@
 ![Image](linkedin-banner1.jpg)
 
 ### About Me
-- 🙋‍♂️ I'm from Lima, Peru
 - 🏪 I've been working in the consumer goods industry for about 5 years, specifically in finance, accounts payable, and vendor payments.
 - 🗒️ Currently, I'm in the Accounts Payable department, but my focus is solely on Business Intelligence and Data Analytics, not on Accounts Payable tasks 😅
 - 💻 I have experience in BI, Data Visualization, Data Analysis, Dashboard Design and Development.
